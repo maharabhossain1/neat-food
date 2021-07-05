@@ -61,7 +61,7 @@ main{
     display: flex;
     /* margin-top: 10vh; */
 }
-/* home section start  */
+/* ---------------home section start---------------  */
 #intro{
     width: 50%;
     margin: 5vh;
@@ -102,8 +102,6 @@ main{
     width: 40vh;
     height: 40vh;
     border: 5px solid #66fcf1;
-    /* box-shadow: 9px 4px 20px #66fcf1;
-    */
     background-image: linear-gradient(#16a8ab9f,#bfffc84a), url(images/photo-1568901346375-23c9450c58cd.jpeg);
     background-position: center;
     background-size: cover;
@@ -115,7 +113,8 @@ main{
     box-shadow: 9px 4px 20px #66fcf1;
 }
 
-/* about section start   */
+
+/* -------------------about section start ------------------  */
 #about{
     margin-top: 10vh;
     padding-top: 5vh;
@@ -172,3 +171,4 @@ main{
     font-family: 'Courier New', Courier, monospace;
     font-size: 3vh;
 }
+
