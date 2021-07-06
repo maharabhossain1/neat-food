@@ -230,10 +230,12 @@ main{
     color: white;
     font-size: 19px;
 }
+
+
+
 /* -----------contect start ------------ */
 #contact-1{
     padding-top: 50px;
-
 }
 #main-form{
     display: flex;
@@ -241,24 +243,19 @@ main{
     
     margin: 10%;
     background-color: aquamarine;
-    box-shadow: 16px 8px 25px #66fcf1;
-   
+    box-shadow: 16px 8px 25px #66fcf1; 
     border-radius:20px;
 }
 
-.main-content{
-    
+.main-content{   
     width: 50%;
-    width: 50%; 
-    
+    width: 50%;    
 }
 #contect{
     background-color:#2a2f3d;
     border-radius: 20px 0px 0px 20px;
 }
-#text{
-    
-    
+#text{    
     text-align: center;
 }
 #text h2{
@@ -287,8 +284,7 @@ main{
     display: flex;
     justify-content: center;
     margin: 5px;
-    padding: 5px;
-   
+    padding: 5px; 
 }
 #social-media button{
     width: 40px;
@@ -313,8 +309,7 @@ main{
     box-shadow: 5px 5px 15px white;
 }
 #social-media button a img{
-    width: 100%;
-    
+    width: 100%;   
 }
 #form-box h1{
     text-align: center;
@@ -345,9 +340,10 @@ form button:hover{
     color: #555;
     box-shadow: 5px 5px 15px black;
 }
+
+
 /* -------------footer start ------------ */
-footer{
-    
+footer{   
     padding: 5%;
     background-color: black;
     text-align: center;
