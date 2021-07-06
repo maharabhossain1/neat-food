@@ -59,7 +59,7 @@ main{
 
 .banner{
     display: flex;
-    /* margin-top: 10vh; */
+    
 }
 /* ---------------home section start---------------  */
 #intro{
@@ -223,3 +223,20 @@ main{
 }
 
 
+/* -------------footer start ------------ */
+footer{
+    
+    padding: 5%;
+    background-color: black;
+    text-align: center;
+}
+footer h2{
+    font-size: 30px;
+    color:white
+}
+footer h2 span{
+    color: #66fcf1;
+}
+footer p{
+    color: white;
+}
