@@ -245,8 +245,7 @@ main{
 }
 #contect{
     background-color:#2a2f3d;
-    /* background-image: linear-gradient(#2a253d,white);
- */
+    border-radius: 20px 0px 0px 20px;
 }
 #text{
     
@@ -289,12 +288,21 @@ main{
     padding: 5px;
     border-radius: 15px;
 }
-#social-media button:hover{
-    background-color: #66fcf1;
-    color: #555;
+#facebook:hover{
+    background-color:#1778f2;
     box-shadow: 5px 5px 15px white;
 }
-#facebook
+#instagram:hover{
+    background-color: #E1306C;
+    box-shadow: 5px 5px 15px white;
+}
+#twitter:hover{
+    background-color: #1DA1F2;
+    box-shadow: 5px 5px 15px white;
+}
+#github:hover{
+    box-shadow: 5px 5px 15px white;
+}
 #social-media button a img{
     width: 100%;
     
