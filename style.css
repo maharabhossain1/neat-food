@@ -125,7 +125,6 @@ main{
 #about{
     background-image: url(images/second-banner.jpg);
     background-repeat: no-repeat;
-    /* margin-top: 10vh; */
     padding-top: 15vh;
 }
  #second-img{
